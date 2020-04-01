@@ -1,0 +1,11 @@
+{
+  "name": "jestairport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airport.js",
+  "scripts": {
+  "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
